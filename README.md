@@ -1,5 +1,9 @@
 # Horiseon Accessibility Refactor
 
+
+![screenshot of website](./assets/images/01-html-css-git-homework-demo.png)
+
+
 ## Description
 https://antced.github.io/horiseon-accessibility-refactor/
 
